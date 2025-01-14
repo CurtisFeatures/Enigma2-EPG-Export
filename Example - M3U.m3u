@@ -1,0 +1,111 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/**************"
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4seven" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75804_dark_360w_270h.png" group-title="Sat1",4seven
+http://10.0.0.227:8001/1:0:1:20B0:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png" group-title="Sat1",5 USA
+http://10.0.0.227:8001/1:0:1:836:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png" group-title="Sat1",5ACTION
+http://10.0.0.227:8001/1:0:1:83D:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png" group-title="Sat1",5SELECT
+http://10.0.0.227:8001/1:0:1:839:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="5Starplus1.uk" tvg-name="5STAR +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97290_dark_360w_270h.png" group-title="Sat1",5STAR +1
+http://10.0.0.227:8001/1:0:1:83A:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="5USAplus1.uk" tvg-name="5USA +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56890_dark_360w_270h.png" group-title="Sat1",5USA +1
+http://10.0.0.227:8001/1:0:1:837:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20684_dark_360w_270h.png" group-title="Sat1",BBC Four HD
+http://10.0.0.227:8001/1:0:19:287D:800:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC NEWS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83285_dark_360w_270h.png" group-title="Sat1",BBC NEWS HD
+http://10.0.0.227:8001/1:0:19:22D9:80D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCOneYorkshire.uk" tvg-name="BBC One Yks HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68103_dark_360w_270h.png" group-title="Sat1",BBC One Yks HD
+http://10.0.0.227:8001/1:0:19:18E3:7FD:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCRedButton1.uk" tvg-name="BBC RB 1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81004_dark_360w_270h.png" group-title="Sat1",BBC RB 1 HD
+http://10.0.0.227:8001/1:0:19:2859:7FE:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20683_dark_360w_270h.png" group-title="Sat1",BBC Three HD
+http://10.0.0.227:8001/1:0:19:1B27:802:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="Sat1",BBC Two HD
+http://10.0.0.227:8001/1:0:19:1B1C:802:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83281_dark_360w_270h.png" group-title="Sat1",CBBC HD
+http://10.0.0.227:8001/1:0:19:1B28:802:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83283_dark_360w_270h.png" group-title="Sat1",CBeebies HD
+http://10.0.0.227:8001/1:0:19:287E:800:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21793_dark_360w_270h.png" group-title="Sat1",Challenge
+http://10.0.0.227:8001/1:0:1:1C22:7E7:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel 4 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56892_dark_360w_270h.png" group-title="Sat1",Channel 4 +1
+http://10.0.0.227:8001/1:0:1:207B:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50716_dark_360w_270h.png" group-title="Sat1",Channel 4 HD
+http://10.0.0.227:8001/1:0:19:1481:7E8:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Channel5plus1.uk" tvg-name="Channel 5 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77749_dark_360w_270h.png" group-title="Sat1",Channel 5 +1
+http://10.0.0.227:8001/1:0:1:83B:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17157_dark_360w_270h.png" group-title="Sat1",Channel 5 HD
+http://10.0.0.227:8001/1:0:19:83C:83D:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="DMAXplus1.uk" tvg-name="DMAX +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58792_dark_360w_270h.png" group-title="Sat1",DMAX +1
+http://10.0.0.227:8001/1:0:1:B59:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58793_dark_360w_270h.png" group-title="Sat1",DMAX
+http://10.0.0.227:8001/1:0:1:B64:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="E4plus1.uk" tvg-name="E4 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33882_dark_360w_270h.png" group-title="Sat1",E4 +1
+http://10.0.0.227:8001/1:0:1:2071:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="E4 Extra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31786_dark_360w_270h.png" group-title="Sat1",E4 Extra
+http://10.0.0.227:8001/1:0:1:20AF:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25117_dark_360w_270h.png" group-title="Sat1",E4
+http://10.0.0.227:8001/1:0:1:20BC:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Film4plus1.uk" tvg-name="Film4 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25630_dark_360w_270h.png" group-title="Sat1",Film4 +1
+http://10.0.0.227:8001/1:0:1:20BD:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21494_dark_360w_270h.png" group-title="Sat1",Film4
+http://10.0.0.227:8001/1:0:1:20BE:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="Sat1",Food Network
+http://10.0.0.227:8001/1:0:1:B5E:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="FoodNetworkplus1.uk" tvg-name="Food Netwrk +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55670_dark_360w_270h.png" group-title="Sat1",Food Netwrk +1
+http://10.0.0.227:8001/1:0:1:B60:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png" group-title="Sat1",GB News HD
+http://10.0.0.227:8001/1:0:19:C441:837:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITVBE.uk" tvg-name="ITV Be HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90257_dark_360w_270h.png" group-title="Sat1",ITV Be HD
+http://10.0.0.227:8001/1:0:19:5163:842:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV1plus1.uk" tvg-name="ITV1 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65160_dark_360w_270h.png" group-title="Sat1",ITV1 +1
+http://10.0.0.227:8001/1:0:1:D7E4:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="ITV1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24289_dark_360w_270h.png" group-title="Sat1",ITV1 HD
+http://10.0.0.227:8001/1:0:19:5230:83F:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="ITV2 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53059_dark_360w_270h.png" group-title="Sat1",ITV2 +1
+http://10.0.0.227:8001/1:0:1:D7F1:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20630_dark_360w_270h.png" group-title="Sat1",ITV2 HD
+http://10.0.0.227:8001/1:0:19:50E6:841:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV3plus1.uk" tvg-name="ITV3 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53060_dark_360w_270h.png" group-title="Sat1",ITV3 +1
+http://10.0.0.227:8001/1:0:1:D7F2:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44643_dark_360w_270h.png" group-title="Sat1",ITV3 HD
+http://10.0.0.227:8001/1:0:19:523A:83F:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV4plus1.uk" tvg-name="ITV4 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png" group-title="Sat1",ITV4 +1
+http://10.0.0.227:8001/1:0:1:D7F3:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48020_dark_360w_270h.png" group-title="Sat1",ITV4 HD
+http://10.0.0.227:8001/1:0:19:5159:842:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="More4plus1.uk" tvg-name="More4 +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47658_dark_360w_270h.png" group-title="Sat1",More4 +1
+http://10.0.0.227:8001/1:0:1:20AE:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png" group-title="Sat1",More4
+http://10.0.0.227:8001/1:0:1:20BF:808:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Questplus1.uk" tvg-name="QUEST +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65394_dark_360w_270h.png" group-title="Sat1",QUEST +1
+http://10.0.0.227:8001/1:0:1:1847:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="QUEST HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png" group-title="Sat1",QUEST HD
+http://10.0.0.227:8001/1:0:19:B68:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="QuestRedplus1.uk" tvg-name="Quest Red +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102764_dark_360w_270h.png" group-title="Sat1",Quest Red +1
+http://10.0.0.227:8001/1:0:1:1843:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102471_dark_360w_270h.png" group-title="Sat1",Quest Red
+http://10.0.0.227:8001/1:0:1:1846:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Really(src01).uk" tvg-name="Really" tvg-logo="" group-title="Sat1",Really
+http://10.0.0.227:8001/1:0:1:B58:7F3:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25342_dark_360w_270h.png" group-title="Sat1",S4C HD
+http://10.0.0.227:8001/1:0:19:CD55:844:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24677_dark_360w_270h.png" group-title="Sat1",Together
+http://10.0.0.227:8001/1:0:1:1AD8:7E7:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="TrueCrimeplus1.uk" tvg-name="TRUE CRIME +1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45510_dark_360w_270h.png" group-title="Sat1",TRUE CRIME +1
+http://10.0.0.227:8001/1:0:1:D7B1:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="TRUE CRIME X" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31756_dark_360w_270h.png" group-title="Sat1",TRUE CRIME X
+http://10.0.0.227:8001/1:0:1:C6D7:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="TRUE CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31756_dark_360w_270h.png" group-title="Sat1",TRUE CRIME
+http://10.0.0.227:8001/1:0:1:D7AE:840:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73129_dark_360w_270h.png" group-title="Sat1",U&Dave
+http://10.0.0.227:8001/1:0:1:196A:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png" group-title="Sat1",U&Drama
+http://10.0.0.227:8001/1:0:1:197A:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="UandEden.uk" tvg-name="U&Eden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35806_dark_360w_270h.png" group-title="Sat1",U&Eden
+http://10.0.0.227:8001/1:0:1:1966:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="UandW.uk" tvg-name="U&W" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png" group-title="Sat1",U&W
+http://10.0.0.227:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31783_dark_360w_270h.png" group-title="Sat1",U&Yesterday
+http://10.0.0.227:8001/1:0:1:1969:7E6:2:11A0000:0:0:0:
